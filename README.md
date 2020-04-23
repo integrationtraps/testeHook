@@ -1,2 +1,2 @@
 # testeHook
-teste hook jenkins - generate build
+teste hook jenkins - generate build with authorization
